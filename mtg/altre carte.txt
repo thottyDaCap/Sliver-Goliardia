@@ -1,0 +1,27 @@
+Se tappi danno mana:
+
+Mistica dei Sonagli Artigliati (verde blu rosso)
+Uccelli del Paradiso (multicolore ma costa un rene)
+Cariatide Silvana (difensore con multicolore ma sono 3 sgrodi)
+Albero dell'Utopia (mana di qualsiasi colore)
+
+Sfera dei Soli(3 seganlini, tappi per levarne uno ed avere un mana del colore che vuoi)
+
+
+Sorcery:
+Alveare in Agitazione (spawna 2 sliver 1/1 incolore)
+
+istantanei:
+
+Abbandonare // Caso			[Ritorna quanti permanenti vuoi dal campo alla tua mano // (gioca dal cimitero)scarta qualsiasi numero di carte dalla mano poi pescane altrettante]
+Pronto // Disponibile			[stappa le tue creature, sono immortali fino alla fine del turno // le tue creature hanno deathtouch e lifelink fino alla fine del turno]
+Scarica di Guerratempesta		[quando giochi una creatura, infliggi danno pari al suo potere a qualsiasi bersaglio]
+Vigore Soprannaturale			[la creatura scelta ha +2/+0 e "quando orna, torna in campo tappata" fino alla fine del turno ]
+Male Immortale				[]la creatura bersaglio ha undying fino alla fine del turno(se muore e non aveva segnalini, torna con un segnalino +1/+1)]
+
+*roba per pescare*
+Progetto Guardiani 		[se giochi una creatura con un nome non duplicato peschi una carta]
+
+
+*pe ride*
+Fumigare		(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)

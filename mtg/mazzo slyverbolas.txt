@@ -83,6 +83,7 @@ STATS
 1- Tramutante Possente (+2/+2)
 1- Tramutante Megagigantico (+3/+3)
 1- Tramutante Osservatore (+0/+2)
+0,1 - Tramutante Corazzato - Tramutante d'Acciaio (+0/+1)
 2- Tramutante Spaccaossa - Tramutante Fendente - Tramutante da Battaglia (+2/+0)
 
 BUFF
@@ -100,11 +101,13 @@ BUFF
 1,2 - Tramutante Ala - Tramutante Squarcianubi - Tramutante Cavalcavento** (fly)[costano un botto tacci loro] **questo anche haste
 0,1 - Tramutante Virulento (poisonus)
 1 - Tramutante Sifone - Tramutante dell'Essenza (lifelink)
+0,1 - Tramutante Filiera (reach)
 
 EFFETTI
 1 - Tramutante Ibernato (paga 2 hp, ritorna questa carta in mano)
 0,1 - Tramutante Grumo (2: rigenera questa creatura)
-0,1 - Tramutante della Cripta (tap: riggenera sliver bersaglio)
+0,1 - Tramutante della Cripta (tap: rigenera sliver bersaglio)
+0,1 - Tramutante Impiastro (2, tap: rigenera sliver bersaglio)
 1 - Tramutante Propagatrice (Countera le spell sugli sliver a meno che non paghi 2 in piu)
 1 - Tramutante di Protezione(protezione da 1 colore scleto)
 1 - Tramutante Costrittore (esilia una cretura finche è sul campo)
@@ -123,3 +126,6 @@ EFFETTI
 1 - Tramutante Nebbiforme (sinergia con i vampiri e copertura contro le spell tipate)
 0,1 - Tramutante dell'Ombra (shadow, bloccabile solo da altri con shadow)
 0,1 - Tramutante Cangiante (bloccabile solo da altri sliver)[potrebbe essere meglio di quello che da solo volare]
+0,1 - Tramutante Spinato (Quando viene bloccato ottiene +1/+1)
+0,1 - Tramutante Commestibile (sacrifica e tappa 2 e ottieni 4 di vita)
+0,1 - Tramutante dal Cuore Tenebroso (sacrifica e ottieni 3 di vita)
