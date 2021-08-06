@@ -21,8 +21,10 @@ Male Immortale				[]la creatura bersaglio ha undying fino alla fine del turno(se
 
 *roba per pescare*
 Progetto Guardiani 		[se giochi una creatura con un nome non duplicato peschi una carta]
+Prisma Profetico 		[costa 2, pesca una carta, tappalo per avere un mana di qualsiasi colore]
 
 
 *pe ride*
 Vessillo del Trionfatore	(+1/+1 al tipo di creatura scelta, quando ne giochi una pesca una carta)
-Fumigare		(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)
+Fumigare			(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)
+Benedizione del Nephilim	(+1/+1 per ogni colore della creatura incantata)
