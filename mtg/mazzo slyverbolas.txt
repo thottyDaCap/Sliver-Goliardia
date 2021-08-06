@@ -87,21 +87,21 @@ STATS
 2- Tramutante Spaccaossa - Tramutante Fendente - Tramutante da Battaglia° (+2/+0) {quello restante uno dei due}
 
 BUFF
-1 - Tramutante Furioso - Tramutante Ossafalce° (double strike)
-1,2- Tramutante da Sfondamento - Tramutante Scuotiterra° - Tramutante Corna° (trample)
+1 - Tramutante Furioso - Tramutante Ossafalce* (double strike)
+1,2- Tramutante da Sfondamento - Tramutante Scuotiterra* - Tramutante Corna* (trample)
 1 - Tramutante Temprato (+1/+1 quando infligge danni)*
-0,1 - Tramutante Fungus° (+1/+1 quando subisce danni) 
-1,2 - Tramutante Sfocato° - Tramutante coraggio (haste){1 perchè ci sta quello che da sia haste che volare}
-1,2 - Tramutante Sentinella° - Tramutante Sincrono (vigilance)
-1,2 - Tramutante Imponente°, Tramutante Artiglio, Tramutante Lanciere*, Tramutante Sputante° (first strike) {volendo anche 3, è da capi insieme a quelli di double strike}
-0,1 - Tramutante Venefico°, Tramutante Tossina° (deathtouch)			DUE COPIE°
+0,1 - Tramutante Fungus* (+1/+1 quando subisce danni) 
+1,2 - Tramutante Sfocato* - Tramutante coraggio (haste){1 perchè ci sta quello che da sia haste che volare}
+1,2 - Tramutante Sentinella* - Tramutante Sincrono (vigilance)
+1,2 - Tramutante Imponente*, Tramutante Artiglio, Tramutante Lanciere*, Tramutante Sputante* (first strike) {volendo anche 3, è da capi insieme a quelli di double strike}
+0,1 - Tramutante Venefico*, Tramutante Tossina* (deathtouch)			DUE COPIE°
 1 - Tramutante Rapido (flash)*
 1 - Tramutante cacciatore (provoke)*
 1,2 - Tramutante a Due Teste* - Tramutante Bellicoso (Non puo essere bloccato da una sola creatura)
-1,2 - Tramutante Ala° - Tramutante Squarcianubi**° - Tramutante Cavalcavento (fly)[costano un botto tacci loro] **questo anche haste  #CAVALCA VENTO COSTA  EURO, DA CAPIRE IN FUTURO PERCHè COSTA SOLO 1
+1,2 - Tramutante Ala* - Tramutante Squarcianubi** * - Tramutante Cavalcavento (fly)[costano un botto tacci loro] **questo anche haste  #CAVALCA VENTO COSTA  EURO, DA CAPIRE IN FUTURO PERCHè COSTA SOLO 1
 0,1 - Tramutante Virulento (poisonus)x
-1 - Tramutante Sifone° - Tramutante dell'Essenza° (lifelink)			DUE COPIE
-0,1 - Tramutante Filiera° (reach)
+1 - Tramutante Sifone* - Tramutante dell'Essenza* (lifelink)			DUE COPIE
+0,1 - Tramutante Filiera* (reach)
 
 EFFETTI
 1 - Tramutante Ibernato (paga 2 hp, ritorna questa carta in mano)*
