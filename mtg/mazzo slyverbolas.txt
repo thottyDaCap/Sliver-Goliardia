@@ -76,27 +76,27 @@ Palazzo Opulento			(nero/verde/blu)
 Bivacco di Frontiera			(verde/vlu/rosso)
 
 
-2 almeno- Tramutante Pelle di Gemma (tap-aggiungi 1 mana)
+2 almeno- Tramutante Pelle di Gemma (tap-aggiungi 1 mana)*
 
 STATS
-2- Tramutante Predatore - Tramutante Muscolare - Tramutante Nerboruto (+1/+1)
-1- Tramutante Possente (+2/+2)
-1- Tramutante Megagigantico (+3/+3)
-1- Tramutante Osservatore (+0/+2)
-0,1 - Tramutante Corazzato - Tramutante d'Acciaio (+0/+1)
+2- Tramutante Predatore - Tramutante Muscolare - Tramutante Nerboruto (+1/+1)			
+1- Tramutante Possente (+2/+2)*
+1- Tramutante Megagigantico (+3/+3)*
+1- Tramutante Osservatore (+0/+2)*
+0,1 - Tramutante Corazzato - Tramutante d'Acciaio (+0/+1)*
 2- Tramutante Spaccaossa - Tramutante Fendente - Tramutante da Battaglia (+2/+0)
 
 BUFF
 1 - Tramutante Furioso - Tramutante Ossafalce (double strike)
 1,2- Tramutante da Sfondamento - Tramutante Scuotiterra - Tramutante Corna (trample)
-1 - Tramutante Temprato (+1/+1 quando infligge danni)
+1 - Tramutante Temprato (+1/+1 quando infligge danni)*
 0,1 - Tramutante Fungus (+1/+1 quando subisce danni) 
 1,2 - Tramutante Sfocato - Tramutante coraggio (haste){1 perchè ci sta quello che da sia haste che volare}
 1,2 - Tramutante Sentinella - Tramutante Sincrono (vigilance)
 1,2 - Tramutante Imponente, Tramutante Artiglio, Tramutante Lanciere, Tramutante Sputante (first strike) {volendo anche 3, è da capi insieme a quelli di double strike}
 0,1 - Tramutante Venefico, Tramutante Tossina (deathtouch)
-1 - Tramutante Rapido (flash)
-1 - Tramutante cacciatore (provoke)
+1 - Tramutante Rapido (flash)*
+1 - Tramutante cacciatore (provoke)*
 1,2 - Tramutante a Due Teste - Tramutante Bellicoso (Non puo essere bloccato da una sola creatura)
 1,2 - Tramutante Ala - Tramutante Squarcianubi - Tramutante Cavalcavento** (fly)[costano un botto tacci loro] **questo anche haste
 0,1 - Tramutante Virulento (poisonus)
@@ -104,28 +104,30 @@ BUFF
 0,1 - Tramutante Filiera (reach)
 
 EFFETTI
-1 - Tramutante Ibernato (paga 2 hp, ritorna questa carta in mano)
+1 - Tramutante Ibernato (paga 2 hp, ritorna questa carta in mano)*
 0,1 - Tramutante Grumo (2: rigenera questa creatura)
 0,1 - Tramutante della Cripta (tap: rigenera sliver bersaglio)
 0,1 - Tramutante Impiastro (2, tap: rigenera sliver bersaglio)
-1 - Tramutante Propagatrice (Countera le spell sugli sliver a meno che non paghi 2 in piu)
-1 - Tramutante di Protezione(protezione da 1 colore scleto)
-1 - Tramutante Costrittore (esilia una cretura finche è sul campo)
-1 - Tramutante Ventrelava (spara 1 quando giochi una creatura e recuper 1 hp)
+1 - Tramutante Propagatrice (Countera le spell sugli sliver a meno che non paghi 2 in piu)*
+1 - Tramutante di Protezione(protezione da 1 colore scleto)*
+1 - Tramutante Costrittore (esilia una cretura finche è sul campo)*
+1 - Tramutante Ventrelava (spara 1 quando giochi una creatura e recuper 1 hp)*
 0,1 - Tramutante Sanguisuga (quando attacca fa 1 danno al giocatore attaccato)
+1 - tramutante puntatrice (paga 3 e scarta lo sliver dalla mano, cerca uno sliver dal mazzo, rivelalo e aggiungilo in mano)*
 
 ***
-1 - Tramutante Covata( quando fa danni crea una pedia 1/1 sliver incolore)
+1 - Tramutante Covata( quando fa danni crea una pedia 1/1 sliver incolore)*
 1,2 - Tramutante Cristallino (non puo essere targhettato da spell o abilità)
-0,1 - Tramutante Armonico (quando giochi uno sliver distruggi un incantamento o artefatto)
-0,1 - Tramutante Linfatico (subisce 1 danno in meno da ogni fonte)
-1 - Tramutante Sferzamente (effetto da buttare ma è si cala a 1)
+0,1 - Tramutante Armonico (quando giochi uno sliver distruggi un incantamento o artefatto)*
+0,1 - Tramutante Linfatico (subisce 1 danno in meno da ogni fonte)*
+1 - Tramutante Sferzamente (effetto da buttare ma è si cala a 1)*
 0,1 - Tramutante Necrotico (effetto buonino ma costa piu di 10 cent)
 0,1 - Tramutante Spettrale (buonino per dei otk)
 0,1 - carino per il control ma non essenziale
-1 - Tramutante Nebbiforme (sinergia con i vampiri e copertura contro le spell tipate)
+1 - Tramutante Nebbiforme (sinergia con i vampiri e copertura contro le spell tipate)*
 0,1 - Tramutante dell'Ombra (shadow, bloccabile solo da altri con shadow)
 0,1 - Tramutante Cangiante (bloccabile solo da altri sliver)[potrebbe essere meglio di quello che da solo volare]
-0,1 - Tramutante Spinato (Quando viene bloccato ottiene +1/+1)
+0,1 - Tramutante Spinato (Quando viene bloccato ottiene +1/+1)*
 0,1 - Tramutante Commestibile (sacrifica e tappa 2 e ottieni 4 di vita)
 0,1 - Tramutante dal Cuore Tenebroso (sacrifica e ottieni 3 di vita)
+0,1 - Tramutante Radice (le creature sliver non possono essere counterate)

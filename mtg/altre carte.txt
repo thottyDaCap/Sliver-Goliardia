@@ -24,4 +24,5 @@ Progetto Guardiani 		[se giochi una creatura con un nome non duplicato peschi un
 
 
 *pe ride*
+Vessillo del Trionfatore	(+1/+1 al tipo di creatura scelta, quando ne giochi una pesca una carta)
 Fumigare		(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)
