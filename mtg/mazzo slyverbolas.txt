@@ -63,17 +63,17 @@ cripta degli eterni
 
 3-colori(  tutte quelle disponibili:  )
 
-Roccaforte delle Steppe Sabbiose 	(bianco/nero/verde)
+Roccaforte delle Steppe Sabbiose 	(bianco/nero/verde) -gamic-
 Cittadella sul Mare			(verde/bianco/blu)
 Caverna di Dromar			(bianco/blu/nero)
 Santuario Arcano			(bianco/blu/nero)
-Santuario nella Giungla			(rosso/verde/bianco)
-Necropoli in Sfacelo			(nero/rosso/blu)
-Territori Selvaggi			(nero/rosso/verde)
-Monastero Mistico			(blu/rosso/bianco)
+Santuario nella Giungla			(rosso/verde/bianco) -gamic-
+Necropoli in Sfacelo			(nero/rosso/blu) -gamic-
+Territori Selvaggi			(nero/rosso/verde) -gamic-
+Monastero Mistico			(blu/rosso/bianco) -gamic-
 Avamposto Nomade			(rosso/bianco/nero)
 Palazzo Opulento			(nero/verde/blu)
-Bivacco di Frontiera			(verde/vlu/rosso)
+Bivacco di Frontiera			(verde/vlu/rosso) -gamic-
 
 
 2 almeno- Tramutante Pelle di Gemma (tap-aggiungi 1 mana)*
@@ -133,3 +133,4 @@ EFFETTI
 0,1 - Tramutante Radice (le creature sliver non possono essere counterate)
 0,1 - Tramutante Sinapse (Quadno fai danni PUOI pescare una carta)
 0,1 - Tramutante della peste (5/5 ma ogni tramutante ti fa 1 danno all'inizio del turno)
+0,1 - Tramutante Astioso (Quadno subisce danni, infligge lo stesso qunaatitativo di danni ad un giocatore o ad un planeswalker)
