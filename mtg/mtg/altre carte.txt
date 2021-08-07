@@ -1,0 +1,38 @@
+Se tappi danno mana:
+
+Mistica dei Sonagli Artigliati (verde blu rosso)
+Uccelli del Paradiso (multicolore ma costa un rene)
+Cariatide Silvana (difensore con multicolore ma sono 3 sgrodi)
+Albero dell'Utopia (mana di qualsiasi colore)
+
+Lanterna Cromatica (ogni terra ti da ogni colore pog)
+
+Sfera dei Soli(3 seganlini, tappi per levarne uno ed avere un mana del colore che vuoi)
+
+
+Sorcery:
+Alveare in Agitazione (spawna 2 sliver 1/1 incolore)
+
+istantanei:
+
+Abbandonare // Caso			[Ritorna quanti permanenti vuoi dal campo alla tua mano // (gioca dal cimitero)scarta qualsiasi numero di carte dalla mano poi pescane altrettante]
+Pronto // Disponibile			[stappa le tue creature, sono immortali fino alla fine del turno // le tue creature hanno deathtouch e lifelink fino alla fine del turno]
+Scarica di Guerratempesta		[quando giochi una creatura, infliggi danno pari al suo potere a qualsiasi bersaglio]
+Vigore Soprannaturale			[la creatura scelta ha +2/+0 e "quando orna, torna in campo tappata" fino alla fine del turno ]
+Male Immortale				[la creatura bersaglio ha undying fino alla fine del turno(se muore e non aveva segnalini, torna con un segnalino +1/+1)]
+Dono della Stirpe			[scegli un tipo, puoi pagare 1+bianco per mettere un segnalino divinità su una creatura con quel tipo(aka diventa indistruttibile)]
+
+
+
+*roba per pescare*
+Progetto Guardiani 		[se giochi una creatura con un nome non duplicato peschi una carta]
+oppure Riflessi di Littjara			[scegli un tipo di creatura, ogni volta che casti una creatura di quel tipo, castane una copia]
+Prisma Profetico 		[costa 2, pesca una carta, tappalo per avere un mana di qualsiasi colore]
+Return from Extinction          [prendi 2 creature in mano dal cimitero che abbiano lo stesso tipo]
+
+*pe ride*
+Vessillo del Trionfatore	(+1/+1 al tipo di creatura scelta, quando ne giochi una pesca una carta)
+Fumigare			(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)
+Benedizione del Nephilim	(+1/+1 per ogni colore della creatura incantata)
+Porta dei Destini		(scegli un sottotipo, ogni volta che giochi una creatura con quel tipo metti un segnalino, +1/+1 per ogni segnalino alle creature di quel tipo)
+Tributo Asfissiante		(quadno l'avversario pesca puo decidere di pagare 2, se non lo fa crea un token "tesoro" per te)
