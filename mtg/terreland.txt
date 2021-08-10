@@ -1,0 +1,53 @@
+									 
+
+Roccaforte delle Steppe Sabbiose 	(bianco/nero/verde) -gamic-1	|
+Cittadella sul Mare			(verde/bianco/blu)-VintageColector-		|
+Caverna di Dromar			(bianco/blu/nero)		|
+Santuario Arcano			(bianco/blu/nero)-VintageColector-		|
+Santuario nella Giungla			(rosso/verde/bianco) -gamic-2	|
+Necropoli in Sfacelo			(nero/rosso/blu) -gamic-3	|
+Territori Selvaggi			(nero/rosso/verde) -gamic-4	|
+Monastero Mistico			(blu/rosso/bianco) -gamic-5	|
+Avamposto Nomade			(rosso/bianco/nero)-VintageColector-		|
+Palazzo Opulento			(nero/verde/blu)-VintageColector-		|
+Bivacco di Frontiera			(verde/vlu/rosso) -gamic-6	|
+
+obelisco di esper
+presidio boros	(rosso && bianco)
+tresserhorn sinks(nero - rosso)	1
+arctic flats	(verde - bianco) 2
+boros guildgate	(rosso- bianco) 3
+ 
+
+nero 16%	4
+rosso 19%	3
+verde 27%	1
+blu 12%		5	
+bianco 24%	2
+            
+	triple		              mezze	    vivid  
+	1 2 3 4 5 6 |	            | 1 2 3
+------------------------            --------|  |
+NERO	x   x x     |3              | x   	|4 |  
+ROSSO	  x x x x x |5	            | x   x	|7 |
+VERDE	x x   x   x |4	            |   x 	|5 |
+BLU	    x   x x |3	            |    	|3 |
+BIANCO	x x     x   |3	            |   x x	|5 | 
+
+con le 10 terre triple ho 6x mana per ogni colore
+
+
+
+Pilastro delle Origini	0
+Cuspide Spaccata	2
+Passeggiata Transgilda	2
+Lanterna Cromatica	1 ma anche 2 dai... dai...
+
+conteggio:	24 terre con mana bianco:8 nero:7 verde:8 blu:7 rosso:7 + 8x multicolori(di cui 4 solo per sliver)
+4 sliver nest
+10 triple
+2 cuspide
+2 passeggiate
+1 arctic flats
+1 per ogni colore
+

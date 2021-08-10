@@ -40,7 +40,7 @@ Pilastro dei Paruns		(3.50€)
 Pilastro delle Origini		(PEFFORZA)
 Giardino dell'Arcata
 Cratere Meteorico
-Cuspide Spaccata		(terra - tap multicolor ma costa 1 mana)
+Cuspide Spaccata  e  Passeggiata Transgilda		(terra - tap multicolor ma costa 1 mana)
 Rifugio di Akoum		(terra - tap rosso/nero)
 Caverne del Sangue Versato	(terra - tap rosso/nero)
 Acquitrino Tetro		(terra - tap blu/nero)
@@ -84,7 +84,7 @@ STATS
 1- Tramutante Megagigantico (+3/+3)*
 1- Tramutante Osservatore (+0/+2)*
 0,1 - Tramutante Corazzato - Tramutante d'Acciaio (+0/+1)*
-2- Tramutante Spaccaossa - Tramutante Fendente - Tramutante da Battaglia° (+2/+0) {quello restante uno dei due}
+2- Tramutante Spaccaossa* - Tramutante Fendente - Tramutante da Battaglia° (+2/+0) {quello restante uno dei due}
 
 BUFF
 1 - Tramutante Furioso - Tramutante Ossafalce* (double strike)
@@ -105,32 +105,69 @@ BUFF
 
 EFFETTI
 1 - Tramutante Ibernato (paga 2 hp, ritorna questa carta in mano)*
-0,1 - Tramutante Grumo (2: rigenera questa creatura)
-0,1 - Tramutante della Cripta (tap: rigenera sliver bersaglio)
-0,1 - Tramutante Impiastro (2, tap: rigenera sliver bersaglio)
+0,1 - Tramutante Grumo (2: rigenera questa creatura)0
+0,1 - Tramutante della Cripta (tap: rigenera sliver bersaglio)*
+0,1 - Tramutante Impiastro (2, tap: rigenera sliver bersaglio)0
 1 - Tramutante Propagatrice (Countera le spell sugli sliver a meno che non paghi 2 in piu)*
 1 - Tramutante di Protezione(protezione da 1 colore scleto)*
 1 - Tramutante Costrittore (esilia una cretura finche è sul campo)*
 1 - Tramutante Ventrelava (spara 1 quando giochi una creatura e recuper 1 hp)*
-0,1 - Tramutante Sanguisuga (quando attacca fa 1 danno al giocatore attaccato)
+0,1 - Tramutante Sanguisuga (quando attacca fa 1 danno al giocatore attaccato)*
 1 - tramutante puntatrice (paga 3 e scarta lo sliver dalla mano, cerca uno sliver dal mazzo, rivelalo e aggiungilo in mano)*
 
 ***
 1 - Tramutante Covata( quando fa danni crea una pedia 1/1 sliver incolore)*
-1,2 - Tramutante Cristallino (non puo essere targhettato da spell o abilità)
+1,2 - Tramutante Cristallino (non puo essere targhettato da spell o abilità)*	X2
 0,1 - Tramutante Armonico (quando giochi uno sliver distruggi un incantamento o artefatto)*
 0,1 - Tramutante Linfatico (subisce 1 danno in meno da ogni fonte)*
 1 - Tramutante Sferzamente (effetto da buttare ma è si cala a 1)*
-0,1 - Tramutante Necrotico (effetto buonino ma costa piu di 10 cent)
-0,1 - Tramutante Spettrale (buonino per dei otk)
-0,1 - carino per il control ma non essenziale
+0,1 - Tramutante Necrotico (effetto buonino ma costa piu di 10 cent)*
+0,1 - Tramutante Spettrale (buonino per dei otk) 0
+0,1 - ??? carino per il control ma non essenziale
 1 - Tramutante Nebbiforme (sinergia con i vampiri e copertura contro le spell tipate)*
-0,1 - Tramutante dell'Ombra (shadow, bloccabile solo da altri con shadow)
-0,1 - Tramutante Cangiante (bloccabile solo da altri sliver)[potrebbe essere meglio di quello che da solo volare]
+0,1 - Tramutante dell'Ombra (shadow, bloccabile solo da altri con shadow)*
+0,1 - Tramutante Cangiante (bloccabile solo da altri sliver)[potrebbe essere meglio di quello che da solo volare]0
 0,1 - Tramutante Spinato (Quando viene bloccato ottiene +1/+1)*
-0,1 - Tramutante Commestibile (sacrifica e tappa 2 e ottieni 4 di vita)
-0,1 - Tramutante dal Cuore Tenebroso (sacrifica e ottieni 3 di vita)
-0,1 - Tramutante Radice (le creature sliver non possono essere counterate)
-0,1 - Tramutante Sinapse (Quadno fai danni PUOI pescare una carta)
-0,1 - Tramutante della peste (5/5 ma ogni tramutante ti fa 1 danno all'inizio del turno)
-0,1 - Tramutante Astioso (Quadno subisce danni, infligge lo stesso qunaatitativo di danni ad un giocatore o ad un planeswalker)
+0,1 - Tramutante Commestibile (sacrifica e tappa 2 e ottieni 4 di vita)0
+0,1 - Tramutante dal Cuore Tenebroso (sacrifica e ottieni 3 di vita)*
+0,1 - Tramutante Radice (le creature sliver non possono essere counterate)*
+0,1 - Tramutante Sinapse (Quadno fai danni PUOI pescare una carta)*
+0,1 - Tramutante della peste (5/5 ma ogni tramutante ti fa 1 danno all'inizio del turno)0
+0,1 - Tramutante Astioso (Quadno subisce danni, infligge lo stesso qunaatitativo di danni ad un giocatore o ad un planeswalker)*
+
+
+
+TOGLIMI
+
+sorin-
+teferi-
+chandra-
+garruk
+eslpeth
+
+
+deathward x2-
+dizzy spell-
+gorgon's head-
+sacred nectar
+
+dementia-
+spitting-
+mistform-
+limph-
+spinneret-
+shadow-
+quilled-
+contricting-
+steelform-
+
+psychic-
+titanic growth-
+clutch of the ..-
+spring leaf drum -
+chromatic star-
+pulmonic-
+hunter-
+
+
+

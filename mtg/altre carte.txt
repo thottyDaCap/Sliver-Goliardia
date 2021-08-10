@@ -7,7 +7,7 @@ Albero dell'Utopia (mana di qualsiasi colore)
 
 Lanterna Cromatica (ogni terra ti da ogni colore pog)
 
-Sfera dei Soli(3 seganlini, tappi per levarne uno ed avere un mana del colore che vuoi)
+Sfera dei Soli(3 seganlini, tappi per levarne uno ed avere un mana del colore che vuoi)*
 
 
 Sorcery:
@@ -19,8 +19,8 @@ Abbandonare // Caso			[Ritorna quanti permanenti vuoi dal campo alla tua mano //
 Pronto // Disponibile			[stappa le tue creature, sono immortali fino alla fine del turno // le tue creature hanno deathtouch e lifelink fino alla fine del turno]
 Scarica di Guerratempesta		[quando giochi una creatura, infliggi danno pari al suo potere a qualsiasi bersaglio]
 Vigore Soprannaturale			[la creatura scelta ha +2/+0 e "quando orna, torna in campo tappata" fino alla fine del turno ]
-Male Immortale				[]la creatura bersaglio ha undying fino alla fine del turno(se muore e non aveva segnalini, torna con un segnalino +1/+1)]
-
+Male Immortale				[la creatura bersaglio ha undying fino alla fine del turno(se muore e non aveva segnalini, torna con un segnalino +1/+1)]
+Dono della Stirpe			[scegli un tipo, puoi pagare 1+bianco per mettere un segnalino divinità su una creatura con quel tipo(aka diventa indistruttibile)]
 
 
 
@@ -33,4 +33,6 @@ Return from Extinction          [prendi 2 creature in mano dal cimitero che abbi
 *pe ride*
 Vessillo del Trionfatore	(+1/+1 al tipo di creatura scelta, quando ne giochi una pesca una carta)
 Fumigare			(distruggi tutte le creature, +1 di vita per ogni creatura distrutta)
-Benedizione del Nephilim	(+1/+1 per ogni colore della creatura incantata)
+Benedizione del Nephilim*	(+1/+1 per ogni colore della creatura incantata)
+Porta dei Destini		(scegli un sottotipo, ogni volta che giochi una creatura con quel tipo metti un segnalino, +1/+1 per ogni segnalino alle creature di quel tipo)
+Tributo Asfissiante		(quadno l'avversario pesca puo decidere di pagare 2, se non lo fa crea un token "tesoro" per te)
