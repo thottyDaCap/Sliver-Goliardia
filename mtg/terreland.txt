@@ -1,22 +1,22 @@
 									 
 
-Roccaforte delle Steppe Sabbiose 	(bianco/nero/verde) -gamic+-1	|
+xRoccaforte delle Steppe Sabbiose 	(bianco/nero/verde) -gamic+-1	|
 Cittadella sul Mare			(verde/bianco/blu)-VintageColector-		|
-Caverna di Dromar			(bianco/blu/nero)		|
-Santuario Arcano			(bianco/blu/nero)-VintageColector-		|
-Santuario nella Giungla			(rosso/verde/bianco) -gamic+-2	|
-Necropoli in Sfacelo			(nero/rosso/blu) -gamic+-3	|
-Territori Selvaggi			(nero/rosso/verde) -gamic+-4	|
-Monastero Mistico			(blu/rosso/bianco) -gamic+-5	|
-Avamposto Nomade			(rosso/bianco/nero)-VintageColector-		|
-Palazzo Opulento			(nero/verde/blu)-VintageColector-		|
-Bivacco di Frontiera			(verde/vlu/rosso) -gamic+-6	|
+xCaverna di Dromar			(bianco/blu/nero)		|
+xSantuario Arcano			(bianco/blu/nero)-VintageColector-		|
+xSantuario nella Giungla			(rosso/verde/bianco) -gamic+-2	|
+xNecropoli in Sfacelo			(nero/rosso/blu) -gamic+-3	|
+xTerritori Selvaggi			(nero/rosso/verde) -gamic+-4	|
+xMonastero Mistico			(blu/rosso/bianco) -gamic+-5	|
+xAvamposto Nomade			(rosso/bianco/nero)-VintageColector-		|
+xPalazzo Opulento			(nero/verde/blu)-VintageColector-		|
+xBivacco di Frontiera			(verde/vlu/rosso) -gamic+-6	|
 
 vivid:
-boschetto	VintageColector 0.10
-dirupo		VintageColector 0.10
-prateria	VintageColector 0.10
-torrente	VintageColector 0.10
+xboschetto	VintageColector 0.10
+xdirupo		VintageColector 0.10
+xprateria	VintageColector 0.10
+xtorrente	VintageColector 0.10
 palude		gamic 0.30
 
 obelisco di esper
