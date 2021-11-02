@@ -1,0 +1,98 @@
+VintageCollectors
+----------------------
+blur sliver 0.10 
+Bonesplitter sliver 0.10
+Darkheart Sliver 0.10
+Fungus Sliver 0.30
+Gemhide Sliver 0.10(ma ne ha solo 1)
+Groundshaker Sliver 0.10
+Homing Sliver 0.10
+Lavabelly Sliver 0.10
+Leeching Sliver 0.10
+Megantic Sliver 0.30(foil)
+Might Sliver 0.10
+Necrotic Sliver 0.10
+Reflex Sliver 0.10
+Sentinel Sliver 2.50(foil)
+Sidewinder Sliver 0.10
+Spined Sliver 0.10(gia in saccoccia?)
+Tempered Sliver 0.10
+
+tot 4.50
+......................
+
+GAMIC
+----------------------
+			Cloudshredder Sliver 1.00(*TROVATO SU ALTRI SHOP*)
+			Diffusion Sliver 2.00(*TROVATO SU ALTRI SHOP*)
+Essence Sliver 0.90
+			Gemhide Sliver 0.50 (2x)(*TROVATO SU ALTRI SHOP*)
+			Spiteful Sliver 0.50(*TROVATO SU ALTRI SHOP*)
+Ward Sliver 0.50
+Winged Sliver 0.60
+
+tot 2.00
+.......................
+
+MANCANTI
+-------------------
+Bonescythe Sliver	Aelit 0.20	Paffu88 1.00		*MAGICSHOP2021 1.64
+Brood Sliver		Aelit 1.40				*MAGICSHOP2021 1.24
+Crypt Sliver			chebru1 0.02
+Crystalline Sliver	   Enki13 2.62				*MAGICSHOP2021 3.94
+Horned Sliver(introvabile, metti quello di sfondamento zi)			   IlBAZAARdiABU-JAFAR
+Quick Sliver		  	chebru1 0.20
+Root Sliver			   MerchantOfAsphodel 0.03      *MAGICSHOP2021 0.59
+Striking Sliver							*MAGICSHOP2021 0.34			porphyria 0.09 [cha pure lo squarcianubi a 0.70]
+Synapse Sliver							*MAGICSHOP2021 7.44
+Syphon Sliver				Paffu88 2.75
+Toxin Sliver		  	chebru1 0.30			*MAGICSHOP2021 1.94
+Venom Sliver		   Enki13 0.29				*MAGICSHOP2021 5.39(foil)
+								tot: 22.52
+....................
+
+
+"KingFrogmite" volato se non per morophon a 11 e il primo tramutante a 15)
+
+} E QUINDI:
+
+chebru1: 
+	Crypt Sliver	0.02
+	Quick Sliver	0.20
+	Toxin Sliver	0.30
+tot: 0.52
+...................
+MAGICSHOP2021:
+	Brood Sliver	1.24
+	Root Sliver	0.59
+	Striking Sliver	0.34
+	Synapse Sliver	7.44
+	
+	Diffusion 1.49
+	Gemhide Sliver 0.30
+tot: 11.40
+...................
+Paffu88:
+	Bonescythe Sliver 	1.00
+	Syphon Sliver		2.75
+tot: 3.75
+...................
+Enki13:
+	Crystalline Sliver2.62
+	Venom Sliver	0.29
+
+	Spiteful Sliver 0.19
+tot: 3.10
+...................
+
+	
+GIA IN SACCOCCIA
+--------------------
+Harmonic Sliver
+Hibernation Sliver
+Lancer Sliver
+Mindlash Sliver
+Two-Headed Sliver
+Watcher Sliver
+
+....................

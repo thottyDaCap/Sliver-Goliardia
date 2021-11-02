@@ -1,0 +1,60 @@
+STRAT:
+Vuoi finire la partita il prima possibile, ma neanche subitissimo.
+L'obiettivo è far scartare all'avversario quante più carte puoi mentre setuppi una board mega aggro(tutti 1/1-2).
+Puoi permetterti di arrivare a mid game ma solo se l'avversario è sabotato e quindi te hai una board pronta.
+Ci sono molti removal per evitare qualche evocazione sculata e un paio di carte che rubano tutto(pifferaio).
+La combo con Ogre e Rodi-Midollo è sbroccata. IMPOSSIBILE vincere contro il reanimator!!!
+
+2x	Raccolto dell'Altare	0.05
+4x	Mirare alla Gola	0.30
+4x	Tragico Scivolone	0.05
+
+2x	Disdegnare		0.05
+4x	Angoscia		0.05
+1x	Costrizione		0.05
+3x	Cancrena della Mente	0.05
+2x	Firmare col Sangue	0.10
+
+4x	Parassita del Canale di Scolo	0.02
+3x	Rodi-Midollo			1.00
+3x	Nezumi Scruta-Ossa		0.10
+4x	Ratto del Branco		1.30
+2x	Acchiapparatti			0.20
+4x	Ratti Famelici			0.05
+
+23x Palude
+
+BONUS
+4x	Ratto Predatore			0.05
+3x	Ratti in Decomposizione		0.05
+4x	Ogre Padrone dei Tuguri		0.10
+3x	Pifferaio della Colonia		0.05
+1-2x	Nezumi Profanatombe		0.05
+4x	Zannacorta Nezumi		0.50
+2x	Occhi di Pece, Serva di Oni	4.00
+4x	Esantema			0.02
+1x	Vaiolo				5.00
+4x	Ratti del Tifo			0.05
+4x	Rito Oscuro			0.05
+4x	Verdetto di Geth		0.10
+4x	Carezza di Liliana		2.00	*	
+4x	Emicrania			0.10	*hanno lo stesso effetto ;)
+2x	Servitù Immortale		0.10
+2x	Sofferenza Urlante		0.50
+3x	Caduta dell'Eroe		1.00
+1x	Patrono dei Nezumi		0.02
+2x	Smembrare			1.00
+2x	Dettami di Erebos		8.00
+4x	Hymn to Tourach			0.50
+
+4x	Brulicampo			2.00
+
+
+Interesanti ma nah
+	In Cerca della Pietra Nichilista
+	Ascensione del Capo Sanguinario
+	Piaga di Ratti
+	Rise of the Dark Realms
+	Pack's Disdain
+	Ratti Parassiti
+	Nulla Va Sprecato	(costa troppissimo)

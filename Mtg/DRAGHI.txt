@@ -1,0 +1,34 @@
+STRAT:
+Vuoi settare una board piena zeppa di draghi il prima possibile e con gli effetti di uno e dell'altro vincere in pochi combattimenti.
+(Simile all' artifak ma senza l'indistruttibilità)
+Molte sorcery ti fanno giocare carte dal cimitero e altre ti fanno evocare, quelle che restano fanno scartare in qualche modo. Alle prime mani vuoi scartare le creature/spell più
+costose che hai e correre per avere abbastanza mana da castarle dal cimitero. Nel turno perfetto riesci ad avere 3/4 draghi dal 4/4 in su per terra al 4° turno.
+La lista bonus sotto non ci prende niente con lo stile del mazzo ma aggiunge un pò di spice che potrebbe essere gradita una volta che si aggiungono i planes.
+
+SORCERY/ENCHANTMENT/INSTANT
+4x	Saccheggio degli Infedeli 	0.05
+4x	Scoperta Emozionante		0.10
+2x	Risveglio di Valakut (// Forgia di Pietre di Valakut)	4.00
+4x	Chiarina Assordante		0.10
+2x	Prodezza del Ferropicco		0.02
+4x	Talento di Mizzix		3.00 (anche 7 quella in giapponese)
+4x	Terrore delle Vette		15.00---------------------------------------(assolutamente non shoppabile subito, si copre con la lista sotto)
+2x	Lathliss, Regina dei Draghi	2.00
+2x	Bottino di Cuor di Bronzo	0.05
+2x	Drakuseth, Fauce di Fiamme	0.50
+3x	Alaspada il Risorto		0.20
+2x	Velomachus Archeorocca		2.00
+4x	Dracotempesta			0.50
+
+5x	Pianura
+9x	Montagna
+4x	Rifugio in Cima al Dirupo	3.00
+4x	Fonderia Sacra			7.00 (coperto da Intreccio Furiacalma a 0.50)
+
+LISTA COPERTURE
+Dragoniere Reietto 	0.90
+Scourge of the Throne	7.00
+Tiranno della Leyline	2.00
+Drago del Falò		12.00
+Crogiolo di Fuoco	0.15
+Malfegor		0.30
